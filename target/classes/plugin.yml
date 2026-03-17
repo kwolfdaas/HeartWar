@@ -1,0 +1,20 @@
+name: HeartClasses
+main: me.kharique.heartclasses.HeartClasses
+version: 1.12.2
+api-version: 1.12
+author: Kharique
+commands:
+  heartrecipes:
+    description: View heart recipes and info
+  heartgui:
+    description: Admin heart editor GUI
+    permission: heartclasses.admin
+  hearts:
+    description: View your heart info
+  hearthelp:
+    description: Receive a book describing how hearts work
+  hearttrade:
+    description: Trade your current heart with another player
+permissions:
+  heartclasses.admin:
+    default: op

@@ -1,0 +1,14 @@
+heartWorld:
+  borderSize: 5000.0
+  lastIncrease: 0
+
+hearts:
+  GOD:
+    name: "&6&lGOD HEART"
+    description: "&eThe ultimate heart. Grants ALL abilities and an OP weapon."
+    icon: NETHER_STAR
+    tier: 1
+    ability: GOD
+    recipe: []
+    mob-drops: {}
+    loot-chests: {}
